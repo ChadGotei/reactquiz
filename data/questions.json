@@ -1,0 +1,94 @@
+{
+  "questions": [
+    {
+      "question": "Who won the FIFA World Cup in 2018?",
+      "options": ["France", "Brazil", "Germany", "Argentina"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Which country hosted the first-ever FIFA World Cup in 1930?",
+      "options": ["Brazil", "Argentina", "Uruguay", "Italy"],
+      "correctOption": 2,
+      "points": 30
+    },
+    {
+      "question": "Who is the all-time top scorer in the English Premier League?",
+      "options": ["Thierry Henry", "Alan Shearer", "Wayne Rooney", "Sergio Agüero"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which player holds the record for the most goals scored in a single FIFA World Cup tournament?",
+      "options": ["Ronaldo (Brazil)", "Miroslav Klose (Germany)", "Pelé (Brazil)", "Just Fontaine (France)"],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "question": "Which African country has won the most Africa Cup of Nations titles?",
+      "options": ["Nigeria", "Egypt", "Cameroon", "Ghana"],
+      "correctOption": 2,
+      "points": 30
+    },
+    {
+      "question": "Who is the only player to have won the UEFA Champions League with three different clubs?",
+      "options": ["Cristiano Ronaldo", "Zlatan Ibrahimović", "Clarence Seedorf", "Lionel Messi"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Who won the UEFA European Championship (Euros) in 2020?",
+      "options": ["France", "Portugal", "Italy", "Germany"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Who is the all-time top scorer for the Spanish national team?",
+      "options": ["David Villa", "Raúl", "Fernando Torres", "David Silva"],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "Which player has won the most Premier League titles?",
+      "options": ["Ryan Giggs", "Paul Scholes", "Wayne Rooney", "Rio Ferdinand"],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "question": "Who was the top scorer of the FIFA World Cup 2014?",
+      "options": ["Thomas Müller", "Lionel Messi", "Neymar", "James Rodríguez"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Which club won the inaugural Premier League title in the 1992-1993 season?",
+      "options": ["Manchester United", "Arsenal", "Liverpool", "Blackburn Rovers"],
+      "correctOption": 3,
+      "points": 30
+    },
+    {
+      "question": "Who is the all-time top scorer for the German national team?",
+      "options": ["Miroslav Klose", "Gerd Müller", "Thomas Müller", "Lukas Podolski"],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "Which club has won the most FA Cup titles in England?",
+      "options": ["Manchester United", "Arsenal", "Chelsea", "Liverpool"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Who was the manager of the England national team during their victorious 1966 FIFA World Cup campaign?",
+      "options": ["Alf Ramsey", "Bobby Robson", "Don Revie", "Fabio Capello"],
+      "correctOption": 0,
+      "points": 40
+    },
+    {
+      "question": "Who was the first African player to win the FIFA Ballon d'Or?",
+      "options": ["George Weah", "Samuel Eto'o", "Didier Drogba", "Yaya Touré"],
+      "correctOption": 0,
+      "points": 20
+    }
+  ]
+}
